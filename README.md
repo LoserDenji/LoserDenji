@@ -2,6 +2,8 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m LoserDenji"></picture>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/752383773760290937?borderRadius=50px&bg=1E1F25)](https://discord.com/users/752383773760290937)
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="42.380%" alt=""></picture><a href="mailto:loserdenji@proton.me"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="7.619%" alt="protonmail"></picture></a><a href="https://www.reddit.com/user/LoserDenji/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="7.619%" alt="reddit"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="42.380%" alt=""></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
