@@ -1,0 +1,266 @@
+{
+ "key": "a1924207",
+ "stars": 29,
+ "contributions": 142,
+ "repos": 10,
+ "followers": 2,
+ "languages": [
+  [
+   "Rust",
+   6711084
+  ],
+  [
+   "Svelte",
+   1285181
+  ],
+  [
+   "TypeScript",
+   1006283
+  ],
+  [
+   "JavaScript",
+   144189
+  ],
+  [
+   "CSS",
+   115981
+  ],
+  [
+   "HTML",
+   73008
+  ],
+  [
+   "SCSS",
+   25164
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 20,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 15,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 8,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 12,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 23,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 5,
+    "day": 15,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 9,
+  "longest": 9
+ },
+ "pins": [
+  {
+   "name": "Bitchord-Desktop-Revived",
+   "url": "https://github.com/LoserDenji/Bitchord-Desktop-Revived",
+   "text": "A improved fork of a fork-https://github.com/jackychan4891/BitChord-PC-Continued adding support for linux and mac os devices",
+   "fork": false,
+   "stars": 28,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "persona5-music-player",
+   "url": "https://github.com/LoserDenji/persona5-music-player",
+   "text": "A stylish Persona 5 inspired web music player featuring iconic UI aesthetics, smooth tracks, and immersive sound design.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": [
+    "css-animations",
+    "frontend",
+    "javascript",
+    "music-player",
+    "p5-ui",
+    "persona-5",
+    "persona-5-royal",
+    "web-player",
+    "webapp",
+    "persona-5-ui"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "Bitchord-Desktop-Revived",
+   "url": "https://github.com/LoserDenji/Bitchord-Desktop-Revived",
+   "text": "A improved fork of a fork-https://github.com/jackychan4891/BitChord-PC-Continued adding support for linux and mac os devices",
+   "fork": false,
+   "stars": 28,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "caelestia-wallpaper-refresh",
+   "url": "https://github.com/LoserDenji/caelestia-wallpaper-refresh",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": [
+    "caelestia"
+   ]
+  },
+  {
+   "name": "BITCH-ord-fix-desktop",
+   "url": "https://github.com/LoserDenji/BITCH-ord-fix-desktop",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "BITCH-ord",
+   "url": "https://github.com/LoserDenji/BITCH-ord",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "BitChord",
+   "url": "https://github.com/LoserDenji/BitChord",
+   "text": "BitChord - A modern YouTube music client with clean aesthetics inspired from Apple Music",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "desktop",
+   "url": "https://github.com/LoserDenji/desktop",
+   "text": "✨🪉 Liner is a desktop player for Windows and Linux that lets you pull your music and playlists from other platforms into one clean app. No ads and bloated features, just synced lyrics and your tracks without anything getting in the way.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Digital-Garden",
+   "url": "https://github.com/LoserDenji/Digital-Garden",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "persona5-music-player",
+   "url": "https://github.com/LoserDenji/persona5-music-player",
+   "text": "A stylish Persona 5 inspired web music player featuring iconic UI aesthetics, smooth tracks, and immersive sound design.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": [
+    "css-animations",
+    "frontend",
+    "javascript",
+    "music-player",
+    "p5-ui",
+    "persona-5",
+    "persona-5-royal",
+    "web-player",
+    "webapp",
+    "persona-5-ui"
+   ]
+  },
+  {
+   "name": "pdf-book-library",
+   "url": "https://github.com/LoserDenji/pdf-book-library",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "LoserDenji",
+   "url": "https://github.com/LoserDenji/LoserDenji",
+   "text": "about me",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
