@@ -1,13 +1,13 @@
 {
- "key": "8a6066e2",
+ "key": "7e468091",
  "stars": 30,
- "contributions": 154,
- "repos": 10,
- "followers": 2,
+ "contributions": 161,
+ "repos": 11,
+ "followers": 3,
  "languages": [
   [
    "Rust",
-   7062786
+   7068496
   ],
   [
    "Svelte",
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 9,
     "day": 16,
     "today": true
    },
@@ -182,6 +182,15 @@
    "topics": [
     "caelestia"
    ]
+  },
+  {
+   "name": "ytm-rs",
+   "url": "https://github.com/LoserDenji/ytm-rs",
+   "text": "Fast, native YouTube Music desktop app for Windows, macOS and Linux, built in Rust. No Electron, synced karaoke lyrics, 30 themes.",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
   },
   {
    "name": "BITCH-ord-fix-desktop",
