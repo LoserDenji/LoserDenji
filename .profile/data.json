@@ -1,37 +1,33 @@
 {
- "key": "49e4fb19",
- "stars": 33,
- "contributions": 247,
- "repos": 11,
+ "key": "2b3405f7",
+ "stars": 32,
+ "contributions": 245,
+ "repos": 9,
  "followers": 4,
  "languages": [
   [
    "Rust",
-   7541114
-  ],
-  [
-   "Svelte",
-   1285181
+   3430860
   ],
   [
    "TypeScript",
-   1006283
+   415813
   ],
   [
    "JavaScript",
-   144189
-  ],
-  [
-   "CSS",
-   115981
+   138077
   ],
   [
    "HTML",
-   73008
+   71056
   ],
   [
    "SCSS",
    25164
+  ],
+  [
+   "CSS",
+   24540
   ]
  ],
  "days": [
@@ -67,19 +63,19 @@
     "today": false
    },
    {
-    "c": 15,
+    "c": 14,
     "day": 7,
     "today": false
    }
   ],
   [
    {
-    "c": 8,
+    "c": 6,
     "day": 8,
     "today": false
    },
    {
-    "c": 12,
+    "c": 11,
     "day": 9,
     "today": false
    },
@@ -141,15 +137,15 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 21,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 14,
-  "longest": 14
+  "current": 15,
+  "longest": 15
  },
  "pins": [
   {
@@ -157,7 +153,7 @@
    "url": "https://github.com/LoserDenji/Bitchord-Desktop-Revived",
    "text": "A improved fork of a fork-https://github.com/jackychan4891/BitChord-PC-Continued adding support for linux and mac os devices",
    "fork": false,
-   "stars": 32,
+   "stars": 31,
    "language": "Rust",
    "topics": []
   },
@@ -188,7 +184,7 @@
    "url": "https://github.com/LoserDenji/Bitchord-Desktop-Revived",
    "text": "A improved fork of a fork-https://github.com/jackychan4891/BitChord-PC-Continued adding support for linux and mac os devices",
    "fork": false,
-   "stars": 32,
+   "stars": 31,
    "language": "Rust",
    "topics": []
   },
@@ -208,24 +204,6 @@
    "url": "https://github.com/LoserDenji/ytm-rs",
    "text": "Fast, native YouTube Music desktop app for Windows, macOS and Linux, built in Rust. No Electron, synced karaoke lyrics, 30 themes.",
    "fork": true,
-   "stars": 0,
-   "language": "Rust",
-   "topics": []
-  },
-  {
-   "name": "BITCH-ord-fix-desktop",
-   "url": "https://github.com/LoserDenji/BITCH-ord-fix-desktop",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Rust",
-   "topics": []
-  },
-  {
-   "name": "BITCH-ord",
-   "url": "https://github.com/LoserDenji/BITCH-ord",
-   "text": "",
-   "fork": false,
    "stars": 0,
    "language": "Rust",
    "topics": []
