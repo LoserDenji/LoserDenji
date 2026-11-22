@@ -1,13 +1,13 @@
 {
- "key": "b90cb937",
- "stars": 35,
- "contributions": 254,
+ "key": "5f24617f",
+ "stars": 36,
+ "contributions": 277,
  "repos": 9,
  "followers": 4,
  "languages": [
   [
    "Rust",
-   3442599
+   3503535
   ],
   [
    "TypeScript",
@@ -107,7 +107,7 @@
   ],
   [
    {
-    "c": 2,
+    "c": 25,
     "day": 22,
     "today": true
    },
@@ -129,9 +129,20 @@
    "url": "https://github.com/LoserDenji/Bitchord-Desktop-Revived",
    "text": "A improved fork of a fork-https://github.com/jackychan4891/BitChord-PC-Continued adding support for linux and mac os devices",
    "fork": false,
-   "stars": 34,
+   "stars": 35,
    "language": "Rust",
-   "topics": []
+   "topics": [
+    "bitchord",
+    "bitchord-desktop",
+    "bitchord-pc",
+    "cross-platform",
+    "desktop-app",
+    "egui",
+    "lastfm",
+    "linux",
+    "lyrics",
+    "macos"
+   ]
   },
   {
    "name": "persona5-music-player",
@@ -160,9 +171,20 @@
    "url": "https://github.com/LoserDenji/Bitchord-Desktop-Revived",
    "text": "A improved fork of a fork-https://github.com/jackychan4891/BitChord-PC-Continued adding support for linux and mac os devices",
    "fork": false,
-   "stars": 34,
+   "stars": 35,
    "language": "Rust",
-   "topics": []
+   "topics": [
+    "bitchord",
+    "bitchord-desktop",
+    "bitchord-pc",
+    "cross-platform",
+    "desktop-app",
+    "egui",
+    "lastfm",
+    "linux",
+    "lyrics",
+    "macos"
+   ]
   },
   {
    "name": "caelestia-wallpaper-refresh",
