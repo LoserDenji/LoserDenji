@@ -1,13 +1,13 @@
 {
- "key": "c783436f",
- "stars": 51,
- "contributions": 510,
+ "key": "a722b505",
+ "stars": 53,
+ "contributions": 513,
  "repos": 9,
  "followers": 4,
  "languages": [
   [
    "Rust",
-   3452409
+   3454262
   ],
   [
    "TypeScript",
@@ -127,7 +127,7 @@
     "today": false
    },
    {
-    "c": 8,
+    "c": 11,
     "day": 26,
     "today": true
    },
@@ -143,9 +143,9 @@
   {
    "name": "Bitchord-Desktop-Revived",
    "url": "https://github.com/LoserDenji/Bitchord-Desktop-Revived",
-   "text": "A fork of ytm-rs-https://github.com/grapedjuice/ytm-rs continuing with https://github.com/jackychan4891/BitChord-PC-Continued adding support for linux and mac os devices",
+   "text": "A fork of ytm-rs-https://github.com/grapedjuice/ytm-rs continuing with BitChord-PC-Continued-jackychan4891 adding support for windows, linux and mac os devices",
    "fork": false,
-   "stars": 50,
+   "stars": 52,
    "language": "Rust",
    "topics": [
     "bitchord",
@@ -185,9 +185,9 @@
   {
    "name": "Bitchord-Desktop-Revived",
    "url": "https://github.com/LoserDenji/Bitchord-Desktop-Revived",
-   "text": "A fork of ytm-rs-https://github.com/grapedjuice/ytm-rs continuing with https://github.com/jackychan4891/BitChord-PC-Continued adding support for linux and mac os devices",
+   "text": "A fork of ytm-rs-https://github.com/grapedjuice/ytm-rs continuing with BitChord-PC-Continued-jackychan4891 adding support for windows, linux and mac os devices",
    "fork": false,
-   "stars": 50,
+   "stars": 52,
    "language": "Rust",
    "topics": [
     "bitchord",
